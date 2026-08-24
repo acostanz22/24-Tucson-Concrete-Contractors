@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 130" role="img" aria-label="Tucson Concrete Contractors">
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(8, 5)">
+      <path d="M20 90 L20 70 Q20 40 60 40 Q100 40 100 70 L100 90" fill="none" stroke="#6366f1" stroke-width="8" stroke-linecap="round"/><rect x="16" y="90" width="88" height="10" rx="2" fill="#888"/>
+    </g>
+    <line x1="138" y1="18" x2="138" y2="112" stroke="#6366f1" stroke-width="3" stroke-linecap="round" opacity="0.35"/>
+    <g font-family="Arial Black, Helvetica Neue, Arial, sans-serif" text-anchor="start">
+      <text x="150" y="72" font-size="34" font-weight="800" fill="#1f1f1f" letter-spacing="0.8">TUCSON</text>
+      <text x="150" y="108" font-size="15" font-weight="700" fill="#6366f1" letter-spacing="2.8">CONCRETE CONTRACTORS</text>
+    </g>
+  </g>
+</svg>
